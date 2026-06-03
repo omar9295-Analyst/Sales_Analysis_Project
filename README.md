@@ -21,11 +21,17 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 **
 
 1- **Total Sales:** $8.34bn. 
+
 2- **Total Revenue:** $8.24bn.  
+
 3- **Total Cost:** $3.55bn.  
+
 4- **Profit Margin:** 57.41%.  
+
 5- **Average Order Value (AOV):** $3.65K.  
+
 6- **Net Quantity Sold:** 36.57M.  
+
 7- **Average Delivery Days:** 90.52.  
 
 **💡 Key Business Insights**
