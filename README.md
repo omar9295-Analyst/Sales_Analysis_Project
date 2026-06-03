@@ -4,6 +4,9 @@
 
 This project analyzes the company's sales transactions to evaluate profit margins, identify key trends, and make smarter decisions to grow the business. The dataset includes comprehensive information on products, physical stores, purchasing channels, and financial metrics.
 
+<img width="1391" height="751" alt="Final Power Bi Project Overview " src="https://github.com/user-attachments/assets/18c72d6a-c575-48eb-986e-dbf17a07ff6d" />
+
+
 **🛠️ Tools & TechnologiesData :**
 
 1- **Modeling & Visualization:** Power BI.
@@ -58,3 +61,9 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 4- **Expand Strong Markets:** Focus on North America and Europe to maximize revenue, while improving weaker regions.  
 
 5- **Improve Delivery Speed:** Reduce delivery time to improve overall customer satisfaction.  
+
+**Full Dashboard**
+
+<img width="1391" height="751" alt="Final Power Bi Project Overview " src="https://github.com/user-attachments/assets/f60337fc-477f-4448-87a2-f4de2c4adf59" />
+<img width="1395" height="752" alt="Final Power Bi Project Operational Hub" src="https://github.com/user-attachments/assets/d23a0e65-7a23-494f-bfd3-6d36675ed296" />
+
