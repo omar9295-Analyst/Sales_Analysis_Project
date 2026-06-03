@@ -7,6 +7,7 @@ This project analyzes the company's sales transactions to evaluate profit margin
 **🛠️ Tools & TechnologiesData :**
 
 1- **Modeling & Visualization:** Power BI.
+
 2- **UI/UX Design:** Figma (used for custom-designing the dashboard's background and layout).  
 
 **🗄️ Data Modeling & Methodology: **
@@ -18,6 +19,7 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 
 **📊 Core KPIs:
 **
+
 1- **Total Sales:** $8.34bn. 
 2- **Total Revenue:** $8.24bn.  
 3- **Total Cost:** $3.55bn.  
