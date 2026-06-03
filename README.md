@@ -21,6 +21,7 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 **
 
 1- **Total Sales:** $8.34bn. 
+
 2- **Total Revenue:** $8.24bn.  
 3- **Total Cost:** $3.55bn.  
 4- **Profit Margin:** 57.41%.  
@@ -31,14 +32,23 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 **💡 Key Business Insights**
 
 1- **Revenue Trends:** Both sales and profit have been decreasing from 2011 to 2013, indicating a drop in overall performance.  
-2- **Product Performance:** The "Computers" category is the top performer, accounting for 45% of total sales, followed by "Cameras and camcorders" at 36%. 
+
+2- **Product Performance:** The "Computers" category is the top performer, accounting for 45% of total sales, followed by "Cameras and camcorders" at 36%.
+
 3- **Geographical Strengths:** North America generates the highest sales, while Europe also shows strong market performance. 
+
 4- **Sales Channels:** Physical stores are the primary sales channel, contributing 58.1% of sales, whereas the online channel contributes 15.5%. 
+
 5-**Logistical Bottlenecks:** Most orders are scheduled for delivery after 6 months, which indicates a very slow delivery performance.  
 
 **🚀 Strategic Recommendations:**
+
 1- **Improve Sales Strategy:** Increase marketing and promotions to stop the decline in sales. 
+
 2- **Focus on High-Performing Products:** Invest more resources in Computers, as it is the top-selling category.  
+
 3- **Grow Online Channel:** Increase focus on online sales to reduce dependency on physical stores and balance the channels.
+
 4- **Expand Strong Markets:** Focus on North America and Europe to maximize revenue, while improving weaker regions.  
+
 5- **Improve Delivery Speed:** Reduce delivery time to improve overall customer satisfaction.  
