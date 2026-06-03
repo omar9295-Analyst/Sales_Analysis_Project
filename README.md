@@ -21,7 +21,6 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 **
 
 1- **Total Sales:** $8.34bn. 
-
 2- **Total Revenue:** $8.24bn.  
 3- **Total Cost:** $3.55bn.  
 4- **Profit Margin:** 57.41%.  
