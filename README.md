@@ -4,8 +4,6 @@
 
 This project analyzes the company's sales transactions to evaluate profit margins, identify key trends, and make smarter decisions to grow the business. The dataset includes comprehensive information on products, physical stores, purchasing channels, and financial metrics.
 
-<img width="1391" height="751" alt="Final Power Bi Project Overview " src="https://github.com/user-attachments/assets/18c72d6a-c575-48eb-986e-dbf17a07ff6d" />
-
 
 **🛠️ Tools & TechnologiesData :**
 
