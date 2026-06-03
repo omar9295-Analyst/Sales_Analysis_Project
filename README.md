@@ -34,6 +34,7 @@ ustom DAX tables, such as "Slicer Years," were created to provide dedicated, opt
 
 7- **Average Delivery Days:** 90.52.  
 
+
 **💡 Key Business Insights**
 
 1- **Revenue Trends:** Both sales and profit have been decreasing from 2011 to 2013, indicating a drop in overall performance.  
