@@ -1,6 +1,6 @@
 **Sales Analysis - Empower Businesses to make Data-Driven Decisions**
 
-**📌 Project Overview : **
+**📌 Project Overview :**
 
 This project analyzes the company's sales transactions to evaluate profit margins, identify key trends, and make smarter decisions to grow the business. The dataset includes comprehensive information on products, physical stores, purchasing channels, and financial metrics.
 
